@@ -1,0 +1,22 @@
+C:\Users\Ricardas\AppData\Local\Temporary Projects\osr1updater\bin\Debug\osr1updater.exe.config
+C:\Users\Ricardas\AppData\Local\Temporary Projects\osr1updater\bin\Debug\osr1updater.exe
+C:\Users\Ricardas\AppData\Local\Temporary Projects\osr1updater\bin\Debug\osr1updater.pdb
+C:\Users\Ricardas\AppData\Local\Temporary Projects\osr1updater\bin\Debug\osr1updater.xml
+C:\Users\Ricardas\AppData\Local\Temporary Projects\osr1updater\obj\Debug\osr1updater.vbprojResolveAssemblyReference.cache
+C:\Users\Ricardas\AppData\Local\Temporary Projects\osr1updater\obj\Debug\osr1updater.Form1.resources
+C:\Users\Ricardas\AppData\Local\Temporary Projects\osr1updater\obj\Debug\osr1updater.Resources.resources
+C:\Users\Ricardas\AppData\Local\Temporary Projects\osr1updater\obj\Debug\osr1updater.vbproj.GenerateResource.Cache
+C:\Users\Ricardas\AppData\Local\Temporary Projects\osr1updater\obj\Debug\osr1updater.exe
+C:\Users\Ricardas\AppData\Local\Temporary Projects\osr1updater\obj\Debug\osr1updater.xml
+C:\Users\Ricardas\AppData\Local\Temporary Projects\osr1updater\obj\Debug\osr1updater.pdb
+C:\Users\Ricardas\Documents\Visual Studio 2017\Projects\osr1updater\osr1updater\bin\Debug\osr1updater.exe.config
+C:\Users\Ricardas\Documents\Visual Studio 2017\Projects\osr1updater\osr1updater\bin\Debug\osr1updater.exe
+C:\Users\Ricardas\Documents\Visual Studio 2017\Projects\osr1updater\osr1updater\bin\Debug\osr1updater.pdb
+C:\Users\Ricardas\Documents\Visual Studio 2017\Projects\osr1updater\osr1updater\bin\Debug\osr1updater.xml
+C:\Users\Ricardas\Documents\Visual Studio 2017\Projects\osr1updater\osr1updater\obj\Debug\osr1updater.vbprojResolveAssemblyReference.cache
+C:\Users\Ricardas\Documents\Visual Studio 2017\Projects\osr1updater\osr1updater\obj\Debug\osr1updater.Form1.resources
+C:\Users\Ricardas\Documents\Visual Studio 2017\Projects\osr1updater\osr1updater\obj\Debug\osr1updater.Resources.resources
+C:\Users\Ricardas\Documents\Visual Studio 2017\Projects\osr1updater\osr1updater\obj\Debug\osr1updater.vbproj.GenerateResource.Cache
+C:\Users\Ricardas\Documents\Visual Studio 2017\Projects\osr1updater\osr1updater\obj\Debug\osr1updater.exe
+C:\Users\Ricardas\Documents\Visual Studio 2017\Projects\osr1updater\osr1updater\obj\Debug\osr1updater.xml
+C:\Users\Ricardas\Documents\Visual Studio 2017\Projects\osr1updater\osr1updater\obj\Debug\osr1updater.pdb
